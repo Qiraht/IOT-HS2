@@ -10,16 +10,16 @@ Blynk
 Sensor Kecepatan  
 Sensor Arus  
 
-### **Fitur**
+## **Fitur**
 Mencatat Kecapatan dan Arus dari sebuah dinamo
 
-Kelompok 5 H/S2 Informatika 08 2018
+Kelompok 1 H/S2 Informatika 08 2018
 
 NAMA | NIM
 ------------ | -------------
-Maulana Akbar Pranowo          |(18.11.2323)
-Raihan Alfain Shubhiy	        |(18.11.2333)
-Muhammad Nur Fikri	        |(18.11.2338)
-Hairul Akhyar Maulana	|(18.11.2348)
-Thariq Aulia Akbar	            |(18.11.2350)
-Reza Monika	|(18.11.2366)
+Maulana Akbar Pranowo          |18.11.2323
+Raihan Alfain Shubhiy	        |18.11.2333
+Muhammad Nur Fikri	        |18.11.2338
+Hairul Akhyar Maulana	|18.11.2348
+Thariq Aulia Akbar	            |18.11.2350
+Reza Monika	|18.11.2366
